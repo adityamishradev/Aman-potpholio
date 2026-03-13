@@ -1,0 +1,9 @@
+# robots.txt for Advocate Nishchal Mishra portfolio
+# Replace example.com with your actual domain before publishing
+
+User-agent: *
+Disallow:
+
+# Sitemap location (update domain if different)
+Sitemap: https://nishchalmishra.law/sitemap.xml
+Host: nishchalmishra.law

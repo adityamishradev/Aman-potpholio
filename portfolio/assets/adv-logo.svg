@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <rect width="200" height="60" rx="8" fill="#07101a"/>
+  <g transform="translate(12,8)">
+    <g transform="scale(0.9)" fill="#D4AF37">
+      <path d="M18 2v2h-2v12h-2V4h-2V2h6z"/>
+      <path d="M40 2v2h-2v12h-2V4h-2V2h6z"/>
+    </g>
+    <text x="80" y="36" font-family="Playfair Display, serif" font-size="20" fill="#D4AF37">Nishchal Mishra</text>
+  </g>
+</svg>
