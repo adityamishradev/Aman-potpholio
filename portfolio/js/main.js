@@ -146,7 +146,7 @@
   const waBtn = document.getElementById('whatsapp-btn');
   if(!waBtn) return;
   waBtn.addEventListener('click', ()=>{
-    const phone = '919876543210'; // +91 98765 43210 -> remove plus and separators
+    const phone = '918319948306'; // +91 83199 48306 -> remove plus and separators
     const text = encodeURIComponent('Hello Nishchal Mishra, I would like to discuss a legal matter.');
     const url = `https://wa.me/${phone}?text=${text}`;
     window.open(url, '_blank', 'noopener');
