@@ -4,6 +4,6 @@
 User-agent: *
 Disallow:
 
-# Sitemap location (update domain if different)
-Sitemap: https://nishchalmishra.law/sitemap.xml
-Host: nishchalmishra.law
+# Sitemap location (updated to .me domain)
+Sitemap: https://nishchalmishra.me/sitemap.xml
+Host: nishchalmishra.me
