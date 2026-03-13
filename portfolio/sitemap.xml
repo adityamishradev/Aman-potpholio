@@ -1,57 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://nishchalmishra.me/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://nishchalmishra.me/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://nishchalmishra.me/about/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://nishchalmishra.me/services/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://nishchalmishra.me/locations/satna/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://nishchalmishra.me/locations/rampur-baghelan/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://nishchalmishra.me/locations/jabalpur/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://nishchalmishra.me/contact/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://nishchalmishra.me/testimonials/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.50</priority>
-  </url>
+
+<url>
+<loc>https://nishchalmishra.me/</loc>
+<lastmod>2026-03-13</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.00</priority>
+</url>
+
+<url>
+<loc>https://nishchalmishra.me/about/</loc>
+<lastmod>2026-03-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://nishchalmishra.me/services/</loc>
+<lastmod>2026-03-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.80</priority>
+</url>
+
+<url>
+<loc>https://nishchalmishra.me/locations/satna/</loc>
+<lastmod>2026-03-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+</url>
+
+<url>
+<loc>https://nishchalmishra.me/locations/rampur-baghelan/</loc>
+<lastmod>2026-03-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+</url>
+
+<url>
+<loc>https://nishchalmishra.me/locations/jabalpur/</loc>
+<lastmod>2026-03-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.70</priority>
+</url>
+
+<url>
+<loc>https://nishchalmishra.me/contact/</loc>
+<lastmod>2026-03-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.60</priority>
+</url>
+
+<url>
+<loc>https://nishchalmishra.me/testimonials/</loc>
+<lastmod>2026-03-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.50</priority>
+</url>
+
 </urlset>

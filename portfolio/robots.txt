@@ -1,9 +1,10 @@
-# robots.txt for Advocate Nishchal Mishra portfolio
-# Replace example.com with your actual domain before publishing
-
 User-agent: *
-Disallow:
+Allow: /
 
-# Sitemap location (updated to .me domain)
+# Block unnecessary system files
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Sitemap
 Sitemap: https://nishchalmishra.me/sitemap.xml
-Host: nishchalmishra.me
